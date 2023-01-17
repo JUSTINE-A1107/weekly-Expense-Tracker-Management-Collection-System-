@@ -1,0 +1,10 @@
+Follow the steps as per the website link provided below:
+                 https://www.stechies.com/pip-not-recognized-internal-external-command/
+
+And then open command prompt then install the following pip libraries which are needed for the Python IDE:
+1) pip install tk
+2) pip install tkcalendar
+3) pip install xlwt
+4) pip install wheel
+5) pip install pyproject.toml
+6) pip install pysqlite3
